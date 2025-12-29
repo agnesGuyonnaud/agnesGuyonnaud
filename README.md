@@ -1,29 +1,31 @@
 # Hi there 👋, I'm Agnès Guyonnaud
 
+
 ## 🚀 About me
 
-- 🎓 Actuellement étudiante en ingénirie informatique à l'INSA de Lyon (diplômée en 2027)
-- 💡 Avide de découvrir tout ce que monde de la tech a à nous offrir en inovations et opportunités
-- 🛠️ Stack technique assez large (administration de réseaux, developpement full stack web, programmation logique déclarative, ...)
-- 🚀 Toujours à la recherche de nouveaux projets pour découvrir le monde du logiciel libre, de la recherche en info, de l'IA, de la robotisation de transports et bien d'autres choses...
+- 🎓 Currently a computer engineering student at INSA Lyon (graduating in 2027)
+- 💡 Eager to discover everything the tech world has to offer in innovations and opportunities
+- 🛠️ Quite broad technical stack (network administration, full stack web development, declarative logical programming, ...)
+- 🚀 Always looking for new projects to explore the world of open source software, computer science research, AI, transportation robotics and many other things...
 
-## 💼 Projets et Contributions
+## 💼 Projects and Contributions
 
-- 🗂️ [Protfolio](https://agnesGuyonnaud.github.io)
-- 🌱 [A venir : projets AGIR et SMART, l'info à l'écoute de la société]
+- 🗂️ [Portfolio](https://agnesGuyonnaud.github.io)
+- 🌱 [Coming soon: AGIR and SMART projects, info listening to society]
 
-Je suis convaincu qu'un profil GitHub peut être un véritable portfolio professionnel, illustrant les compétences techniques et l'éthique de travail d'un développeur. J’encourage nos étudiants à enrichir régulièrement leur profil GitHub pour démontrer leur progression, leurs projets, et leur maîtrise des standards de développement.
+I am convinced that a GitHub profile can be a real professional portfolio, illustrating a developer's technical skills and work ethic. I encourage our students to regularly enrich their GitHub profile to demonstrate their progress, projects, and mastery of development standards.
 
-![Langages les plus utilisées](<add link here>)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=agnesGuyonnaud)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=agnesGuyonnaud)
 
 
-## 📫 Me Contacter
+## 📫 Contact Me
 
-Je suis toujours ouvert à des discussions autour de la tech, de ses innovations et de ces carrières. 
-Que ce soit pour discuter tech, IA, logiciel libre, présence des femmes dans la tech, escalade, avenir du monde, ou recette de tiramissu,
-n'hésitez pas à vous connecter avec moi :
+I am always open to discussions about tech, its innovations and careers. 
+Whether it's to discuss tech, AI, open source software, women's presence in tech, climbing, the future of the world, or tiramisu recipe,
+don't hesitate to connect with me:
 
-- 🟦 [Profil Linkedin](https://www.linkedin.com/in/agn%C3%A8s-guyonnaud-90a0a0261/)
+- 🟦 [LinkedIn Profile](https://www.linkedin.com/in/agn%C3%A8s-guyonnaud-90a0a0261/)
 ---
 
 <!--
