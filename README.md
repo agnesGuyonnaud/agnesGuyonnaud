@@ -11,19 +11,19 @@
 ## 💼 Projects and Contributions
 
 - 🗂️ [Portfolio](https://agnesGuyonnaud.github.io)
-- 🌱 [Coming soon: AGIR and SMART projects, info listening to society]
+- 🌱 Coming soon: AGIR and SMART projects aka computer science listening to society ➡️ participate in first step [survey](https://forms.gle/T5LbQih6vLcVgpF2A) !
 
-I am convinced that a GitHub profile can be a real professional portfolio, illustrating a developer's technical skills and work ethic. I encourage our students to regularly enrich their GitHub profile to demonstrate their progress, projects, and mastery of development standards.
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=agnesGuyonnaud)
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=agnesGuyonnaud)
+And here is a few statistics because I think it's quite fun 😉 :
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=agnesGuyonnaud)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=agnesGuyonnaud)
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=agnesGuyonnaud)
 
 
 ## 📫 Contact Me
 
 I am always open to discussions about tech, its innovations and careers. 
-Whether it's to discuss tech, AI, open source software, women's presence in tech, climbing, the future of the world, or tiramisu recipe,
-don't hesitate to connect with me:
+
+Whether it's to discuss _✏️tech, AI, open source software, women's presence in tech, climbing, the future of the world, or tiramisu recipe😋_, don't hesitate to connect with me:
 
 - 🟦 [LinkedIn Profile](https://www.linkedin.com/in/agn%C3%A8s-guyonnaud-90a0a0261/)
 ---
