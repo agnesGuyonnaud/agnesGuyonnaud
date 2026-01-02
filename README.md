@@ -10,7 +10,7 @@
 
 ## 💼 Projects and Contributions
 
-- 🗂️ [Portfolio](https://agnesGuyonnaud.github.io)
+- 🗂️ [Portfolio](https://agnesGuyonnaud.github.io/portfolio/index.html)
 - 🌱 Coming soon: AGIR and SMART projects aka computer science listening to society ➡️ participate in first step [survey](https://forms.gle/T5LbQih6vLcVgpF2A) !
 
 And here is a few statistics because I think it's quite fun 😉 :
