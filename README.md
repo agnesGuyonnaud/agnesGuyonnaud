@@ -12,12 +12,12 @@
 
 - 🗂️ [Portfolio](https://agnesguyonnaud.github.io/AgnesGuyonnaud.portfolio/index.html)
 - 🌱 Coming soon: AGIR and SMART projects aka computer science listening to society ➡️ participate in first step [survey](https://forms.gle/T5LbQih6vLcVgpF2A) !
-
+<!--
 And here is a few statistics because I think it's quite fun 😉 :
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=agnesGuyonnaud)
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=agnesGuyonnaud)
 ![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=agnesGuyonnaud)
-
+-->
 
 ## 📫 Contact Me
 
